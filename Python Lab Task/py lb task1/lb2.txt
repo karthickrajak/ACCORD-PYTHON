@@ -1,0 +1,29 @@
+1. print name and qualification
+Name: Karthickraja Kannathasan
+Qualification: B.E Computer Science
+
+2.Assign 2 number and apply all arithmetic operations
+Addition (a+b): 30
+Subraction (a-b): -10
+Multiplication (a*b): 200
+Division (a/b): 0.5
+Floor Division (a//b): 0
+Modulus (a%b): 10
+
+3. Assign 2 numbers a and b and write code to swap using third variable.
+Before Swapping
+a= 10
+b= 20
+
+ After Swapping
+a= 20
+b= 10
+
+4. Without using third variable and arithmetic operators swap two given numbers
+Before Swapping
+a= 100
+b= 200
+
+ After Swapping
+a= 200
+b= 100
